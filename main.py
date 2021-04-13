@@ -1,7 +1,6 @@
 import random
 import string
 import pyperclip
-from tkinter import *
 
 # PASSWORD CHARACTERISTICS
 alphabets = string.ascii_letters
